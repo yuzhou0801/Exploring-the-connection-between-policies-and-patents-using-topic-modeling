@@ -1,0 +1,38 @@
+{
+    "Topic 0": [
+        "energy",
+        "government",
+        "spending",
+        "electricity",
+        "investments",
+        "support",
+        "buildings",
+        "power",
+        "gas",
+        "renewable"
+    ],
+    "Topic 1": [
+        "critical",
+        "minerals",
+        "mining",
+        "materials",
+        "mineral",
+        "supply",
+        "raw",
+        "strategic",
+        "chains",
+        "development"
+    ],
+    "Topic 2": [
+        "import",
+        "products",
+        "vehicles",
+        "export",
+        "policies",
+        "tariff",
+        "electric",
+        "agreement",
+        "materials",
+        "inflexion"
+    ]
+}
