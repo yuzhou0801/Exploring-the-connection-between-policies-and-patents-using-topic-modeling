@@ -1,0 +1,50 @@
+{
+    "Topic 0": [
+        "energy",
+        "government",
+        "topic",
+        "electricity",
+        "investments",
+        "incentives",
+        "support",
+        "buildings",
+        "program",
+        "also"
+    ],
+    "Topic 1": [
+        "critical",
+        "minerals",
+        "materials",
+        "mining",
+        "chains",
+        "mineral",
+        "raw",
+        "topic",
+        "supply",
+        "also"
+    ],
+    "Topic 2": [
+        "methane",
+        "emissions",
+        "lng",
+        "statement",
+        "gas",
+        "topic",
+        "chain",
+        "also",
+        "mitigation",
+        "standards"
+    ],
+    "Topic 3": [
+        "import",
+        "policies",
+        "topic",
+        "trade",
+        "export",
+        "impact",
+        "also",
+        "products",
+        "related",
+        "tariff"
+    ]
+}
