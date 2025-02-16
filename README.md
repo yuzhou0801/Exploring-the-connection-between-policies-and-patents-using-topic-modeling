@@ -24,14 +24,13 @@ This indicates that policy topics and patent topics have a strong correlation in
 
 ### Visual Analytics
 Topic similarity heat map
-
+![Topic similarity heat map](picture/heatmap.png)
 - Similarity trend: The policies of 2020-2025 have a high similarity to the patents of 2022-2024 (around 0.6). The similarity of policies after 2026 began to decline, indicating that the impact of policies on patents gradually weakened, and new policies may be needed to promote technological innovation.
 - Lag effect: The patents in 2023 have the highest similarity with the policies in 2023 (0.67), indicating that the direct impact of the policy may be most significant after 1 year. The similarity of patents in 2024 has declined, which is consistent with the previous lag correlation analysis (the 1-year lag has the largest impact, and the 2-year lag has a weaker impact).
 - Future trend forecast (after 2026): The similarity began to decline significantly in 2026 (down to around 0.3). The similarity in 2030 is only around 0.2, indicating that the impact of the current policy may not last too long, and new policy support is recommended.
 
 Cluster analysis
-
-
+![Cluster analysis](picture/Cluster_analysis.png)
 Through UMAP dimensionality reduction + HDBSCAN clustering, policies and patent topics are divided into multiple clusters. The Silhouette Score is 0.5523, indicating that the topic division is relatively clear; the Davies-Bouldin Index is 0.5565, which further verifies the clustering quality. It can be seen that there is a strong clustering effect in the direction of patent innovation affected by policies, that is, policies may mainly affect certain technical fields rather than widely affecting all patent innovations.
 
 ### Future Patent Theme Forecast
